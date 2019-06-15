@@ -1,2 +1,1 @@
-# jiahui-jiang-
-3D CNN for 3D image classification
+# 3D CNN for 3D image classification
